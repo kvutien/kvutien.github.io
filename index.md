@@ -31,7 +31,8 @@ The advantages are:
 * High quality of data
 * Resilience to network disruption and to single storage failures
 * Tokens are not cryptocurrencies. They are "units of trust" that can be redeemed against real cash at official financial services in amounts that justify the banking costs.
-  
+
+
 ## How can it be done technically?
 Almost all blockchain projects store the data on the blockchain. But for use cases that don't need double-spending protection, nor governance enforcement mechanisms, storing data on the blockchain is overkill. Transaction fees range between USD 0.50 and USD 300.
 
