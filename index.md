@@ -16,7 +16,7 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 
 ### The problem:
 * All organizations that support the persons in need worldwide complain that their data concerning these persons are isolated, inconsistent, not up to date and expensive to maintain. Ideally it should be accurate and shared among all helper organizations, and GDPR-compliant. See [White Paper of Mercy Corp, Danish Red Cross and Hive Online](https://www.hivenetwork.online/blockchain-for-good/)
-* These organizations also complain that the current banking compliancy rules (FATF) are too heavy to make possible the banking of people who have less than 50 USD revenues per month, and make excessive overhead for the Cash and Voucher Assistance (CVA) prgrams.
+* These organizations also complain that the current banking compliancy rules (FATF) are too heavy to make profitable the banking of people who have less than 50 USD revenues per month, and make excessive overhead for the Cash and Voucher Assistance (CVA) prgrams.
 
 ### The solution:
 * Machu Picchu allows each person in need to own and maintain their own profile data. The technical details will be described below.
