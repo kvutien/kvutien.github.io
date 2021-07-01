@@ -15,11 +15,12 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 ### The vision of Machu Picchu
 |![Machu Picchu Logo](64x64_logo.png)|Machu Picchu is my current project. The vision of Machu Picchu is as follows:|
 |-------|:---------|
-The problem:
+
+#### The problem:
 * All organizations that support the persons in need worldwide complain that their data concerning these persons are isolated, inconsistent, not up to date and expensive to maintain. Ideally it should be accurate and shared among all helper organizations, and GDPR-compliant. See [White Paper of Mercy Corp, Danish Red Cross and Hive Online](https://www.hivenetwork.online/blockchain-for-good/)
 * These organizations also complain that the current banking compliancy rules (FATF) are too heavy to make possible the banking of people who have less than 50 USD revenues per month, and make excessive overhead for the Cash and Voucher Assistance (CVA) prgrams.
 
-The solution:
+#### The solution:
 * Machu Picchu allows each person in need to own and maintain their own profile data. The technical details will be described below.
 * The profile data are available to all organizations, humanitarian or commercial, who use them to optimize their assistance programmes. They will pay a micro-fee (a token) to the owners to read these data.
 * These organizations can also materialize their CVA as tokens under their own brand (UNICEF, Red Cross, World Food Programs etc.)
