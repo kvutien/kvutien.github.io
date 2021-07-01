@@ -1,8 +1,7 @@
 _version of July 1st, 2021_
 # Who am I?
 
-|![photo](./Icon-203pix.jpg) |I am a retired professional of the space and aeronautics industry. My current technical center of interest is the blockchain and Earth Observation. I am certified Ethereum developer by ConsenSys Academy<br> [My LinkedIn Profile](https://www.linkedin.com/in/kvutien/). <br>[My Github Repositories](https://github.com/kvutien) <br>[My Vision: Machu Picchu, Tech4Good](https://kvutien-yes.medium.com/machu-picchu-how-the-blockchain-can-help-persons-in-need-8396820d13d1)|
-|-------|:---------|
+![photo](./Icon-203pix.jpg) I am a retired professional of the space and aeronautics industry. My current technical center of interest is the blockchain and Earth Observation. I am certified Ethereum developer by ConsenSys Academy<br> [My LinkedIn Profile](https://www.linkedin.com/in/kvutien/). <br>[My Github Repositories](https://github.com/kvutien) <br>[My Vision: Machu Picchu, Tech4Good](https://kvutien-yes.medium.com/machu-picchu-how-the-blockchain-can-help-persons-in-need-8396820d13d1)
 # My Github account
 My Github account is composed of 4 types of repositories
 1. **Project** repositories: contain the code of past hackathons (not maintained) or the code of Machu Picchu demos (maintained)
@@ -13,9 +12,7 @@ My Github account is composed of 4 types of repositories
 All repositories have one of the 4 prefixes in the description. Your interest is most certainly in the tutorial repositories.
 # About Machu Picchu
 ## The vision of Machu Picchu
-|![Machu Picchu Logo](64x64_logo.png)|Machu Picchu is my current project. The vision of Machu Picchu is as follows:|
-|-------|:---------|
-
+![Machu Picchu Logo](64x64_logo.png) Machu Picchu is my current project. The vision of Machu Picchu is as follows:
 
 ### The problem:
 * All organizations that support the persons in need worldwide complain that their data concerning these persons are isolated, inconsistent, not up to date and expensive to maintain. Ideally it should be accurate and shared among all helper organizations, and GDPR-compliant. See [White Paper of Mercy Corp, Danish Red Cross and Hive Online](https://www.hivenetwork.online/blockchain-for-good/)
