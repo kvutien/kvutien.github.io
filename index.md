@@ -48,7 +48,7 @@ These people will access the blockchain through their chief of village, or equiv
 Once the habit of doing so is acquired, this multisignature can be extended to many other usages: participation to common chores, incentive for good practice, decentralised exchange of tokens etc.
 
 
-## Placeholder: Welcome to GitHub Pages
+# Placeholder: Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kvutien/kvutien.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
