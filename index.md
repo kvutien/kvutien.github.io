@@ -31,12 +31,14 @@ The advantages are:
 * High quality of data
 * Resilience to network disruption and to single storage failures
 * Tokens are not cryptocurrencies. They are "units of trust" that can be redeemed against real cash at official financial services in amounts that justify the banking costs.
+  
 ## How can it be done technically?
 Almost all blockchain projects store the data on the blockchain. But for use cases that don't need double-spending protection, nor governance enforcement mechanisms, storing data on the blockchain is overkill. Transaction fees range between USD 0.50 and USD 300.
 
 IPFS (Interplanetary File System) and OrbitDB are decentralised storage solutions that have no data validation constraints. They just store the data. They use cryptography only to authenticate the owner (the person in need) and the consumer (assistance organizations) of the data. If we store on the blockchain only the public keys and the addresses of the smart contract that a person in need may invoke, the cost of registration of a person in need range between USD 0.50 to USD 3.00, which is affordable.
 
 IPFS decentralised storage rules replicate the data between 20 peers or less. These peers may come and go. This makes the system highly scalable to hundreds of millions of persons in need.
+
 ## How can it be done practically?
 A person in need has at best a cellular phone. How can we give blockchain access to these people?
 
