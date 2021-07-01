@@ -47,7 +47,7 @@ These people will access the blockchain through their chief of village, or equiv
 
 Once the habit of doing so is acquired, this multisignature can be extended to many other community usages: participation to common chores, incentive for good practice, decentralised exchange of tokens etc.
 
-## What is the roadmap of Machu Pïcchu?
+## What is the roadmap of Machu Picchu?
 
 ### The big picture
 
