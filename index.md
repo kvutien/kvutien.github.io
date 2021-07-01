@@ -45,7 +45,7 @@ A person in need has at best a cellular phone. How can we give blockchain access
 
 These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one hackathon. The cellular sends via SMS an information to populate the profile. This SMS will be approved by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
 
-Once the habit of doing so is acquired, this multisignature can be extended to many other usages: participation to common chores, incentive for good practice, decentralised exchange of tokens etc.
+Once the habit of doing so is acquired, this multisignature can be extended to many other community usages: participation to common chores, incentive for good practice, decentralised exchange of tokens etc.
 
 
 # Placeholder: Welcome to GitHub Pages
