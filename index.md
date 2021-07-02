@@ -52,14 +52,22 @@ Once the habit of doing so is acquired, this multisignature can be extended to m
 ### The big picture
 Mach Picchu is open source and collaborative. 
 * The main thread of Machu Picchu is to derive from the Machu Picchu toolbox specific applications tailored to the needs of humanitarians and assistance organizations, and to deploy them on the field
-* Based on the needs, the second thread of Machu Picchu is to build the toolbox that can be adapted to the user applications
+* Based on the needs, the second thread of Machu Picchu is to build the toolbox that can be adapted to the user applications. However, this 2nd thread is anterior to the 1st thread in order to convince humanitarians that Machu Picchu is a reality and not just an idea.
 * The third tread is to train people who are interested to use the Machu Picchu toolbox
 * The last thread, external to Machu Picchu, is the core development of the decentralised technology
 
 ![Big Picture](./1-Roadmap.png)
 
+### Develop the Machu Picchu toolbox
+The Machu Picchu toolbox is composed of several components
+* demonstrators that can be derived into specific applications for humanitarians
+* snippets of code that can be reused in the above as building bricks
+* tutorials for new comers
+
 ### What is available today?
-To be done
+Machu Picchu is working on a demonstrator that implements the main components as described above
+
+_To be done_
 ### What are the next steps?
 To be done
 # Placeholder: Welcome to GitHub Pages
