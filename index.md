@@ -79,11 +79,10 @@ As said above, the immediate advantages of Machu Picchu for an humanitarian orga
 
 The long term advantages come when more humanitarians join Machu Picchu, leveraging the networking effect
 * Shared data with other organizations
-* Synergy in the Cash & Voucher Assistance programs
-* Synergy of work on the same villages or camps.
+* Synergy among the Cash & Voucher Assistance programs
+* Synergy of work on the same villages or camps
+* Attraction of commercial operators in the food and agro industry
 
-### What are the next steps?
-To be done
 # Placeholder: Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kvutien/kvutien.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
