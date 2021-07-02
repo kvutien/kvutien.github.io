@@ -64,10 +64,24 @@ The Machu Picchu toolbox is composed of several components
 * snippets of code that can be reused in the above as building bricks
 * tutorials for new comers
 
-### What is available today?
 Machu Picchu is working on a demonstrator that implements the main components as described above
+1. the blockchain registration of the persons in need
+2. the decentralised storage of the personal data
+3. the control of personal data by each person in need
+4. the statistical extraction of the data
 
-_To be done_
+Points 1 and 2 are available today, in the form of [a game of Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/). ![screen shot](./Pepito-disguise.png)
+### Develop the humanitarian applications
+As said above, the immediate advantages of Machu Picchu for an humanitarian organization are:
+* Immediate report to donors of how the funds are spent
+* Low overhead of costs
+* High quality of data
+
+The long term advantages come when more humanitarians join Machu Picchu, leveraging the networking effect
+* Shared data with other organizations
+* Synergy in the Cash & Voucher Assistance programs
+* Synergy of work on the same villages or camps.
+
 ### What are the next steps?
 To be done
 # Placeholder: Welcome to GitHub Pages
