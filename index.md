@@ -38,7 +38,7 @@ Almost all blockchain projects store the data on the blockchain. But for use cas
 
 IPFS (Interplanetary File System) and OrbitDB are decentralised storage solutions that have no data validation constraints. They just store the data. They use cryptography only to authenticate the owner (the person in need) and the consumer (assistance organizations) of the data. If we store the bulk of data on IPFS and on the blockchain only the public keys and the addresses of the smart contract that a person in need may invoke, the cost of registration of a person in need range between USD 0.50 to USD 3.00, which is affordable.
 
-IPFS decentralised storage rules replicate the data between 20 peers or less. These peers may come and go. A [Raspberry Pi small and faceless ARM computer on Linux](https://www.raspberrypi.org/about/), with 250 GB of storage costs USD 100 and can store data of 200 thousands persons at 1 MB each. This makes the system highly scalable to hundreds of millions of persons in need.
+IPFS decentralised storage rules replicate the data between 20 peers or less. These peers may come and go. A [Raspberry Pi 3, small and faceless ARM computer on Linux](https://www.raspberrypi.org/about/), with 250 GB of storage costs USD 50 and can store data of 200 thousands persons at 1 MB each. This makes the system highly scalable to hundreds of millions of persons in need.
 
 ## How can it be done practically?
 A person in need has at best a cellular phone. How can we give blockchain access to these people?
