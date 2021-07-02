@@ -50,9 +50,13 @@ Once the habit of doing so is acquired, this multisignature can be extended to m
 # What is the roadmap of Machu Picchu?
 
 ### The big picture
-Mach Picchu is open source and collaborative.
+Mach Picchu is open source and collaborative. 
+* The main thread of Machu Picchu is to derive from the Machu Picchu toolbox specific applications tailored to the needs of humanitarians and assistance organizations, and to deploy them on the field
+* Based on the needs, the second thread of Machu Picchu is to build the toolbox that can be adapted to the user applications
+* The third tread is to train people who are interested to use the Machu Picchu toolbox
+* The last thread, external to Machu Picchu, is the core development of the decentralised technology
 
-To be done
+![Big Picture](./1-Roadmap.png)
 
 ### What is available today?
 To be done
