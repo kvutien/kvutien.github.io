@@ -51,10 +51,12 @@ Once the habit of doing so is acquired, this multisignature can be extended to m
 
 ### The big picture
 
+To be done
+
 ### What is available today?
-
+To be done
 ### What are the next steps?
-
+To be done
 # Placeholder: Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kvutien/kvutien.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
