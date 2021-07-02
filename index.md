@@ -50,6 +50,7 @@ Once the habit of doing so is acquired, this multisignature can be extended to m
 # What is the roadmap of Machu Picchu?
 
 ### The big picture
+Mach Picchu is open source and collaborative.
 
 To be done
 
