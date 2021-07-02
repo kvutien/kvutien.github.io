@@ -4,7 +4,7 @@ _version of July 1st, 2021_
 ![photo](./Icon-203pix.jpg) I am a retired professional of the space and aeronautics industry. My current technical center of interest is the blockchain and Earth Observation. I am certified Ethereum developer by ConsenSys Academy<br> [My LinkedIn Profile](https://www.linkedin.com/in/kvutien/). <br>[My Github Repositories](https://github.com/kvutien) <br>[My Vision: Machu Picchu, Tech4Good](https://kvutien-yes.medium.com/machu-picchu-how-the-blockchain-can-help-persons-in-need-8396820d13d1)
 # My Github account
 My Github account is composed of 4 types of repositories
-1. **Project** repositories: contain the code of past hackathons (not maintained) or the code of Machu Picchu demos (maintained)
+1. **Project** repositories: contain the code of past hackathons where Mach Picchu participated (not maintained) or the code of Machu Picchu demos (maintained)
 2. **Tutorial** repositories: contain forked tutorials or tutorials I wrote myself. They should be running as-is. Simply fork and clone them, following the instructions.
 3. **Reference** repositories: contain industry reference repositories. I forked them in order to be able to do changes. Most of them contain tutorials that can be outdated, and I need to update them, for them to run.
 4. **Explore** repositories: contain forked repositories that I might explore in detail some day. Once I make them work, they will be promoted to "tutorials"
