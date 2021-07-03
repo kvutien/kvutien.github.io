@@ -15,7 +15,7 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 ![Machu Picchu Logo](64x64_logo.png) Machu Picchu is my current project. The vision of Machu Picchu is as follows:
 
 ### The problem:
-* All organizations that support the persons in need worldwide complain that their data concerning these persons are isolated, inconsistent, not up to date and expensive to maintain. Ideally it should be accurate and shared among all helper organizations, and GDPR-compliant. See [White Paper of Mercy Corp, Danish Red Cross and Hive Online](https://www.hivenetwork.online/blockchain-for-good/)
+* All organizations that support the persons in need worldwide complain that their data concerning these persons are isolated, inconsistent, not up to date and expensive to maintain. Ideally it should be accurate and shared among all helper organizations, and GDPR-compliant. See [White Paper of Mercy Corp, Danish Red Cross and Hive Online](https://www.hivenetwork.online/blockchain-for-good/).
 * These organizations also complain that the current banking compliancy rules (FATF) are too heavy to make profitable the banking of people who have less than 50 USD revenues per month, and make excessive overhead for the Cash and Voucher Assistance (CVA) prgrams.
 
 ### The solution:
@@ -26,10 +26,10 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 
 ## The advantages of Machu Picchu
 The advantages are:
-* Reporting of the usage of funds to donors is straightforward
-* Ownership of the data remains in the hands of each person in need
-* High quality of data
-* Resilience to network disruption and to single storage failures
+* Reporting of the usage of funds to donors is straightforward;
+* Ownership of the data remains in the hands of each person in need;
+* High quality of data;
+* Resilience to network disruption and to single storage failures;
 * Tokens are not cryptocurrencies. They are "units of trust" that can be redeemed against real cash at official financial services in amounts that justify the banking costs.
 
 
@@ -51,37 +51,37 @@ Once the habit of doing so is acquired, this multisignature can be extended to m
 
 ### The big picture
 Mach Picchu is open source and collaborative. 
-* The main thread of Machu Picchu is to derive from the Machu Picchu toolbox specific applications tailored to the needs of humanitarians and assistance organizations, and to deploy them on the field
-* Based on the needs, the second thread of Machu Picchu is to build the toolbox that can be adapted to the user applications. However, this 2nd thread is anterior to the 1st thread in order to convince humanitarians that Machu Picchu is a reality and not just an idea.
-* The third tread is to train people who are interested to use the Machu Picchu toolbox
-* The last thread, external to Machu Picchu, is the core development of the decentralised technology
+* The main thread of Machu Picchu is to derive from the Machu Picchu toolbox specific applications tailored to the needs of humanitarians and assistance organizations, and to deploy them on the field.
+* Based on the needs, the second thread of Machu Picchu is to build the toolbox that can be adapted to the user applications. This being said, this 2nd thread is started before the 1st thread in order to have concrete tools to convince humanitarians that Machu Picchu is not just an idea.
+* The third tread is to train people who are interested to use the Machu Picchu toolbox.
+* The last thread, external to Machu Picchu, is the core development of the decentralised technology.
 
 ![Big Picture](./1-Roadmap.png)
 
 ### Develop the Machu Picchu toolbox
-The Machu Picchu toolbox is composed of several components
-* demonstrators that can be derived into specific applications for humanitarians
-* snippets of code that can be reused in the above as building bricks
-* tutorials for new comers
+The Machu Picchu toolbox is composed of several components:
+* demonstrators that can be derived into specific applications for humanitarians;
+* snippets of code that can be reused in the above as building bricks;
+* tutorials for new comers.
 
 Machu Picchu is working on a demonstrator that implements the main components as described above
-1. the blockchain registration of the persons in need
-2. the decentralised storage of the personal data
-3. the control of personal data by each person in need
-4. the statistical extraction of the data
+1. the blockchain registration of the persons in need;
+2. the decentralised storage of the personal data;
+3. the control of personal data by each person in need;
+4. the statistical extraction of the data;
 
 Points 1 and 2 are available today, in the form of [a game of Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/). ![screen shot](./Pepito-disguise.png)
 ### Develop the humanitarian applications
 As said above, the immediate advantages of Machu Picchu for an humanitarian organization are:
-* Immediate report to donors of how the funds are spent
-* Low overhead of costs
-* High quality of data
+* Immediate report to donors of how the funds are spent;
+* Low overhead of costs;
+* High quality of data.
 
 The long term advantages come when more humanitarians join Machu Picchu, leveraging the networking effect
-* Shared data with other organizations
-* Synergy among the Cash & Voucher Assistance programs
-* Synergy of work on the same villages or camps
-* Attraction of commercial operators in the food and agro industry
+* Shared data with other organizations;
+* Synergy among the Cash & Voucher Assistance programs;
+* Synergy of work on the same villages or camps;
+* Attraction of commercial operators in the food and agro industry.
 
 # Placeholder: Welcome to GitHub Pages
 
