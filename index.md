@@ -104,7 +104,7 @@ Machu Picchu is _blockchain4good_, programming with a purpose, open source, coll
 * Layer 2 (lower costs of transaction)
 * DEX (exchange of tokens of different NGO's)
 * etc. you name it
-## Contribute funding, or contribute research of funding
+## Funding, or Raise funding
 Machu Picchu's purpose is to provide low cost tools for low income persons in low profile applications, but this doesn't mean a small solvable market.
 
 The FAO estimated in 2013 that there are more than 500 million households. In 2019 the [Cash & Voucher Assistance programs totalled worldwide USD 5.6 billions](https://reliefweb.int/sites/reliefweb.int/files/resources/SOWC2020-Executive-Summary.pdf&usg=AOvVaw0ZepAEO1c1PBT_nhM9fmdz). This amount makes for only 17.9% of the total international humanitarian assistance. Any percentage gained in operating costs translates into hundreds of millions.
