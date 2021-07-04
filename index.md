@@ -19,7 +19,7 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 * These organizations also complain that the current banking compliancy rules (FATF) are too heavy to make profitable the banking of people who have less than 50 USD revenues per month, and make excessive overhead for the Cash and Voucher Assistance (CVA) prgrams.
 
 ### The solution:
-* Machu Picchu allows each person in need to own and maintain their own profile data. The technical details are described below.
+* Machu Picchu allows each person in need to own and maintain their personal profile data. The technical details are described below.
 * The profile data are available to all organizations, humanitarian or commercial, who use them to optimize their assistance programmes. They will pay a micro-fee (a token) to the owners to read these data.
 * These organizations can also materialize their CVA as tokens under their own brand (UNICEF, Red Cross, World Food Programs etc.)
 * The persons in need can exchange branded tokens among them to make a bundle of a single kind of token that is big enough to be worth being redeemed at a bank or at some official exchange.
@@ -30,15 +30,19 @@ The advantages are:
 * Ownership of the data remains in the hands of each person in need;
 * High quality of data;
 * Resilience to network disruption and to single storage failures;
+* Very low cost of operations;
 * Tokens are not cryptocurrencies. They are "units of trust" that can be redeemed against real cash at official financial services in amounts that justify the banking costs.
 
-
+## The FAQ
+You may want to continue reading, or [explore the FAQ](./FAQ-en.md) to see if your questions are there.
 ## How can it be done technically?
 Almost all blockchain projects store the data on the blockchain. But for use cases that don't need double-spending protection, nor governance enforcement mechanisms, storing data on the blockchain is overkill. Transaction fees range between USD 0.50 and USD 300 (!).
 
-IPFS (Interplanetary File System) and OrbitDB are decentralised storage solutions that have no data validation constraints. They just store the data. They use cryptography only to authenticate the owner (the person in need) and the consumer (assistance organizations) of the data. If we store the bulk of data on IPFS and on the blockchain only the public keys and the addresses of the smart contract that a person in need may invoke, the cost of registration of a person in need range between USD 0.50 to USD 3.00, which is affordable.
+IPFS (Interplanetary File System) and OrbitDB are decentralised storage solutions that have no data validation constraints. They just store the data. They use cryptography only to authenticate the owner (the person in need) and the consumer (assistance organizations) of the data. Let's store the bulk of data on IPFS and store on the blockchain only the public keys and the addresses of the smart contract that a person in need may invoke. Doing so, the cost of registration of a person in need range between USD 0.50 to USD 3.00, which is affordable.
 
 IPFS decentralised storage rules replicate the data between 20 peers or less. These peers may come and go. A [Raspberry Pi 3, small and faceless ARM computer on Linux](https://www.raspberrypi.org/about/), with 250 GB of storage costs USD 50 and can store data of 200 thousand persons at 1 MB each. If a node replicates 20 other nodes, the figure is down to 10 thousand persons per node. This makes the system highly scalable to hundreds of millions of persons in need, by putting one Raspberry in every few villages or camps.
+
+We can start using the existing IPFS - OrbitDB nodes and self-host progressively with the Raspberry solution.
 
 ## How can it be done practically?
 A person in need has at best a cellular phone. How can we give blockchain access to these people?
@@ -83,6 +87,32 @@ The long term advantages come when more humanitarians join Machu Picchu, leverag
 * Synergy of work on the same villages or camps;
 * Attraction of commercial operators in the food and agro industry.
 
+# What can I do now for Machu Picchu?
+Thank you for having read until here. Machu Picchu is looking for 3 kinds of participants.
+## Participate as Humanitarian Organisation
+Machu Picchu is in continuous development. At this stage, the [Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/) is available to create a disguise, store the data on IFPS/OrbitDB, store the addresses on the blockchain. The road is still long, but let's do it together, find the funding and derive the Pepito disguises to satisfy your own needs.
+
+## Contribute as developer
+Machu Picchu has won several prizes in recent hackathons. Contact us if you feel that there is a hackathon that has a theme that is close to Machu Picchu's technologies.
+
+Machu Picchu is _blockchain4good_, programming with a purpose, open source, collaborative. **Contribute your code and showcase your skills**, for good. Any support, how small it is, has a value. The list of keywords is endless:
+* blockchain (any blockchain)
+* IPFS, OrbitDB, Textile, Ceramic
+* ERC 20, [ERC 721 aka NFT](https://docs.openzeppelin.com/contracts/3.x/erc721)
+* node hosting, CI/CD, Raspberry Pi (truly decentralised ops)
+* mobile app, cellular SMS (put data ownership where it belongs)
+* Layer 2 (lower costs of transaction)
+* DEX (exchange of tokens of different NGO's)
+* etc. you name it
+## Contribute funding, or contribute research of funding
+Machu Picchu's purpose is to provide low cost tools for low income persons in low profile applications, but this doesn't mean a small solvable market.
+
+The FAO estimated in 2013 that there are more than 500 million households. In 2019 the [Cash & Voucher Assistance programs totalled worldwide USD 5.6 billions](https://reliefweb.int/sites/reliefweb.int/files/resources/SOWC2020-Executive-Summary.pdf&usg=AOvVaw0ZepAEO1c1PBT_nhM9fmdz). This amount makes for only 17.9% of the total international humanitarian assistance. Any percentage gained in operating costs translates into hundreds of millions.
+
+# Feedback: your questions and comments
+* Check the [Frequently Asked Question](./FAQ-en.md)
+* Post your comments at the end of [the Medium post](https://kvutien-yes.medium.com/machu-picchu-how-the-blockchain-can-help-persons-in-need-8396820d13d1)
+* Challenge the topics in [the Github issues](https://github.com/kvutien/kvutien.github.io/issues)
 # Placeholder: Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kvutien/kvutien.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
