@@ -1,8 +1,8 @@
-_version of July 1st, 2021_
+_version of July 4th, 2021_
 # Who am I?
 
 ![photo](./Icon-203pix.jpg) I am a retired professional of the space and aeronautics industry. My current technical center of interest is the blockchain and Earth Observation. I am certified Ethereum developer by ConsenSys Academy<br> [My LinkedIn Profile](https://www.linkedin.com/in/kvutien/). <br>[My Github Repositories](https://github.com/kvutien) <br>[My Vision: Machu Picchu, Tech4Good](https://kvutien-yes.medium.com/machu-picchu-how-the-blockchain-can-help-persons-in-need-8396820d13d1)
-# My Github account
+## My Github account
 My Github account is composed of 4 types of repositories
 1. **Project** repositories: contain the code of past hackathons where Mach Picchu participated (not maintained) or the code of Machu Picchu demos (maintained)
 2. **Tutorial** repositories: contain forked tutorials or tutorials I wrote myself. They should be running as-is. Simply fork and clone them, following the instructions.
@@ -47,7 +47,7 @@ We can start using the existing IPFS - OrbitDB nodes and self-host progressively
 ## How, practically?
 A person in need has at best a cellular phone. How can we give blockchain access to these people?
 
-These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one hackathon. The cellular sends via SMS an information to populate the profile. This SMS will be approved by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
+These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one hackathon. The cellular sends via SMS an information to populate the profile. The originator of this SMS will be confirmed by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
 
 Once the habit of doing so is acquired, this multisignature can be extended to many other community usages: participation to common chores, incentive for good practice, education, decentralised exchange of tokens etc.
 
