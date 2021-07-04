@@ -35,6 +35,6 @@ Machu Picchu's purpose is to provide low cost tools for low income persons in lo
 
 The FAO estimated in 2013 that there are more than 500 million households in need. In 2019 the [Cash & Voucher Assistance programs totalled worldwide USD 5.6 billions](https://reliefweb.int/sites/reliefweb.int/files/resources/SOWC2020-Executive-Summary.pdf&usg=AOvVaw0ZepAEO1c1PBT_nhM9fmdz). This amount makes for only 17.9% of the total international humanitarian assistance. 
 
-Despite this huge amount, it means only USD 11 per householed. At such a small amount, banks lose money, donors lose money, helper organisation lose money and the persons-in-need are noty well served.
+Despite this huge amount, it means only USD 11 per householed. At such a small amount, banks lose money, donors lose money, helper organisations lose money and the persons-in-need are not well served.
 
 Any percentage gained in operating costs translates into hundreds of millions more that can be shared between Machu Picchu and the persons-in-need.
