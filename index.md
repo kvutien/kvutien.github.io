@@ -24,7 +24,7 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 * These organizations can also materialize their CVA as tokens under their own brand (UNICEF, Red Cross, World Food Programs etc.)
 * The persons in need can exchange branded tokens among them to make a bundle of a single kind of token that is big enough to be worth being redeemed at a bank or at some official exchange.
 
-## The advantages of Machu Picchu
+## Advantages of Machu Picchu
 The advantages are:
 * Reporting of the usage of funds to donors is straightforward;
 * Ownership of the data remains in the hands of each person in need;
@@ -35,7 +35,7 @@ The advantages are:
 
 ## The FAQ
 You may want to continue reading, or [explore the FAQ](./FAQ-en.md) to see if your questions are there.
-## How can it be done technically?
+## How, technically?
 Almost all blockchain projects store the data on the blockchain. But for use cases that don't need double-spending protection, nor governance enforcement mechanisms, storing data on the blockchain is overkill. Transaction fees range between USD 0.50 and USD 300 (!).
 
 IPFS (Interplanetary File System) and OrbitDB are decentralised storage solutions that have no data validation constraints. They just store the data. They use cryptography only to authenticate the owner (the person in need) and the consumer (assistance organizations) of the data. Let's store the bulk of data on IPFS and store on the blockchain only the public keys and the addresses of the smart contract that a person in need may invoke. Doing so, the cost of registration of a person in need range between USD 0.50 to USD 3.00, which is affordable.
@@ -44,7 +44,7 @@ IPFS decentralised storage rules replicate the data between 20 peers or less. Th
 
 We can start using the existing IPFS - OrbitDB nodes and self-host progressively with the Raspberry solution.
 
-## How can it be done practically?
+## How, practically?
 A person in need has at best a cellular phone. How can we give blockchain access to these people?
 
 These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one hackathon. The cellular sends via SMS an information to populate the profile. This SMS will be approved by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
@@ -75,7 +75,7 @@ Machu Picchu is working on a demonstrator that implements the main components as
 4. the statistical extraction of the data;
 
 Points 1 and 2 are available today, in the form of [a game of Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/). ![screen shot](./Pepito-disguise.png)
-### Develop the humanitarian applications
+### Develop humanitarian apps
 As said above, the immediate advantages of Machu Picchu for an humanitarian organization are:
 * Immediate report to donors of how the funds are spent;
 * Low overhead of costs;
@@ -89,7 +89,7 @@ The long term advantages come when more humanitarians join Machu Picchu, leverag
 
 # What can I do now for Machu Picchu?
 Thank you for having read until here. Machu Picchu is looking for 3 kinds of participants.
-## Participate as Humanitarian Organisation
+## Participate as Humanitarian
 Machu Picchu is in continuous development. At this stage, the [Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/) is available to create a disguise, store the data on IFPS/OrbitDB, store the addresses on the blockchain. The road is still long, but let's do it together, find the funding and derive the Pepito disguises to satisfy your own needs.
 
 ## Contribute as developer
