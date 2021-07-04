@@ -90,7 +90,7 @@ The long term advantages come when more humanitarians join Machu Picchu, leverag
 # What can I do now for Machu Picchu?
 Thank you for having read until here. Machu Picchu is looking for 3 kinds of participants.
 ## Participate as Humanitarian
-Machu Picchu is in continuous development. At this stage, the [Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/) is available to create a disguise, store the data on IFPS/OrbitDB, store the addresses on the blockchain. The road is still long, but let's do it together, find the funding and derive the Pepito disguises to satisfy your own needs.
+Machu Picchu is in continuous development. At this stage, the [Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/) is available to create a disguise, store the data on IFPS/OrbitDB, store the addresses on the blockchain. The road is still long, but let's do it together. Let's find the funding and derive together the Pepito disguises to satisfy your own needs.
 
 ## Contribute as developer
 Machu Picchu has won several prizes in recent hackathons. Contact us if you feel that there is a hackathon that has a theme that is close to Machu Picchu's technologies.
