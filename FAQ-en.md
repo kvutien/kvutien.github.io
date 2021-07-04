@@ -18,6 +18,8 @@ Once the objective explained above are achieved, Machu Picchu paves the way for 
 ## Is Machu Picchu another cryptocurrency?
 No. Machu Picchu is not another cryptocurrency.
 
+Machu Picchu is closer to the "Voucher" part of the "Cash & Voucher Assistance"
+
 _To be explained_
 ## How can a person-in-need, who has barely a cellular phone, use the blockchain?
 These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one prize-winning hackathon. The cellular sends via SMS an information to populate the profile. The originator of this SMS will be confirmed by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
