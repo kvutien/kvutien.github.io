@@ -62,7 +62,7 @@ Mach Picchu is open source and collaborative.
 
 ![Big Picture](./1-Roadmap.png)
 
-### Develop the Machu Picchu toolbox
+### Develop Machu Picchu toolbox
 The Machu Picchu toolbox is composed of several components:
 * demonstrators that can be derived into specific applications for humanitarians;
 * snippets of code that can be reused in the above as building bricks;
