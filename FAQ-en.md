@@ -29,6 +29,8 @@ Smaller NGOs or organizations who don't have a brand large enough can share a co
 ## How can a person-in-need, who has barely a cellular phone, use the blockchain?
 These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one prize-winning hackathon. The cellular sends via SMS an information to populate the profile. The originator of this SMS will be confirmed by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
 
+There are many other ways, for example using a solid-state smartcard that is read by the tablet of the sponsor.
+
 Once the habit of doing so is acquired, this multisignature can be extended to many other community usages: participation to common chores, incentive for good practice, gender equality, education, decentralised exchange of tokens etc.
 ## What kind of data do you expect these people to post?
 Anything they want, or actually everything their sponsors advise them to post.
