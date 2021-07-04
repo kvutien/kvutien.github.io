@@ -29,7 +29,7 @@ The advantages are:
 * Reporting of the usage of funds to donors is straightforward;
 * Ownership of the data remains in the hands of each person in need;
 * High quality of data;
-* Resilience to network disruption and to single storage failures;
+* Resilience to network disruption and to sporadic localised storage failures;
 * Very low cost of operations;
 * Tokens are not cryptocurrencies. They are "units of trust" that can be redeemed against real cash at official financial services in amounts that justify the banking costs.
 
