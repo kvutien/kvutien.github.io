@@ -36,7 +36,7 @@ The advantages are:
 ## The FAQ
 You may want to continue reading, or [explore the FAQ](./FAQ-en.md) to see if your questions are there.
 ## How, technically?
-Almost all blockchain projects store the data on the blockchain. But for use cases that don't need double-spending protection, nor governance enforcement mechanisms, storing data on the blockchain is overkill. Transaction fees range between USD 0.50 and USD 300 (!).
+Almost all blockchain projects store the data on the blockchain. But for use cases that don't need double-spending protection, nor governance enforcement mechanisms, storing data on the blockchain is overkill. Transaction fees range between USD 5 and USD 300 (!).
 
 IPFS (Interplanetary File System) and OrbitDB are decentralised storage solutions that have no data validation constraints. They just store the data. They use cryptography only to authenticate the owner (the person in need) and the consumer (assistance organizations) of the data. Let's store the bulk of data on IPFS and store on the blockchain only the public keys and the addresses of the smart contract that a person in need may invoke. Doing so, the cost of registration of a person in need range between USD 0.50 to USD 3.00, which is affordable.
 
