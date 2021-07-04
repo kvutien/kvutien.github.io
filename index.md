@@ -104,6 +104,7 @@ Machu Picchu is _blockchain4good_, programming with a purpose, open source, coll
 * Layer 2 (lower costs of transaction)
 * DEX (exchange of tokens of different NGO's)
 * etc. you name it
+  
 ## Funding, or Raise funding
 Machu Picchu's purpose is to provide low cost tools for low income persons in low profile applications, but this doesn't mean a small solvable market.
 
