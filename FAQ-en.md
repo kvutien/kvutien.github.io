@@ -27,7 +27,7 @@ Once the habit of doing so is acquired, this multisignature can be extended to m
 Anything they want, or actually everything their sponsors advise them to post.
 
 In field reality, the people-in-need have no autonomy and they don't care about GDPR and the equivalent. They trust their sponsors, be it the chief of village or the NGO field workers.
-Typically they would post the GPS location of their field or their refugees camp, what they grow, when they sow, when they harvest, the size of their family, their financial needs. There is no immutability, they can hide, change and delete. But the data is signed by them and confirmed by their sponsors that it comes from their cellular.
+Typically they would post the GPS location of their field or their refugees camp, what they grow, when they sow, when they harvest, the size of their family, their financial needs, what they did with the assistance received. There is no immutability, they can hide, change and delete. But the data is signed by them and confirmed by their sponsors that it comes from their cellular.
  
 Technically, modern databases don't care about data models. The CPU have enough power to traverse all the data very quickly. Data is stored as key-value pairs. See [MongoDB](https://www.mongodb.com/what-is-mongodb) for example.
 ## How would you take care of the credibility of the data posted by persons-in-need?
