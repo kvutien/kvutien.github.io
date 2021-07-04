@@ -22,7 +22,7 @@ Machu Picchu is closer to the "Voucher" part of the "Cash & Voucher Assistance"
 
 Each big institution can generate its own brand of Machu Picchu blockchain token. A token of such kind is a promise of a payment that this institution will do to the holder, be it a person-in-need or a local merchant who accepted it against some good or service. The value of the token is determined by the institution in a centralised way.
 
-As the system grows and there are many tokens in circulation, each person-in-need may exchange tokens on a decentralised marketplace to make a bundle that is worth being redeemed. For example, a farmer might exchange some tokens from Red Cross, plus some from FAO against a number of UNICEF tokens that can be accepted against schoolbooks for her kid. Or accepted by the local Postbank against cash to invest a cart and a adonkey.
+As the system grows and there are many tokens in circulation, each person-in-need may exchange tokens on a decentralised marketplace to make a bundle that is worth being redeemed. For example, a farmer might exchange some tokens from Red Cross, plus some from FAO against a number of UNICEF tokens that can be accepted against schoolbooks for her kid. Or accepted by the local Postbank against cash to invest a cart and a donkey.
 
 Smaller NGOs or organizations who don't have a brand large enough can share a common Machu Picchu token for the same purpose.
 
