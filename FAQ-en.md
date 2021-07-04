@@ -41,4 +41,4 @@ The FAO estimated in 2013 that there are more than 500 million households in nee
 
 Despite this huge amount, it means only USD 11 per household per year currently . At such a small amount, banks lose money, donors lose money, helper organisations lose money and the persons-in-need are not well served.
 
-Any percentage gained in operating costs translates into hundreds of millions more that can be shared between Machu Picchu and the persons-in-need.
+Any percentage gained in operating costs translates into hundreds of millions more that can be shared between the persons-in-need and Machu Picchu.

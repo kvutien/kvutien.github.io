@@ -21,8 +21,8 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 ### The solution:
 * Machu Picchu allows each person in need to own and maintain their personal profile data. The technical details are described below.
 * The profile data are available to all organizations, humanitarian or commercial, who use them to optimize their assistance programmes. They will pay a micro-fee (a token) to the owners to read these data.
-* These organizations can also materialize their CVA as tokens under their own brand (UNICEF, Red Cross, World Food Programs etc.)
-* The persons in need can exchange branded tokens among them to make a bundle of a single kind of token that is big enough to be worth being redeemed at a bank or at some official exchange.
+* These organizations can also materialize their CVA as tokens under their own brand (UNICEF, Red Cross, World Food Programs, Mercy Corps etc.)
+* The persons in need can exchange branded tokens among them to make a bundle of a single kind of token that is worth being redeemed at a bank or at some official exchange.
 
 ## Advantages of Machu Picchu
 The advantages are:
