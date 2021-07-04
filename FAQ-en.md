@@ -1,4 +1,5 @@
 # Machu Picchu's Frequently Asked Questions
+_version of July 4th, 2021_
 ## Is Machu Picchu about SSI, Self-Sovereign Identity?
 No. Machu Picchu not about identity.
 
@@ -8,18 +9,18 @@ It's Data as a Public Service. Identity is not of primary concern in this use ca
 The data is on IPFS, not on blockchain. They own this data and can revoke it because it's cryptographically signed by their cellular. GDPR wise, they are the Data Controller of their data.
 
 ## Is Machu Picchu about "banking the unbanked"?
-No. Machu Picchu is not a bank, or a banking tool.
+No. Machu Picchu is not a bank, nor a banking tool. It is nonetheless "inclusive finance".
 
-But once the objective explained above are achieved, Machu Picchu paves the way for more decentralised applications. We keep in mind that the purpose of Machu Picchu is NOT to replace the existing institutions, like banks, micro-finance, micro-insurance, administrations. It is to leverage low operation costs of state-of-the-art solutions to serve the lowest segments of market where the existing financial tools failed, due to their high costs.
+Once the objective explained above are achieved, Machu Picchu paves the way for more decentralised applications. We keep in mind that the purpose of Machu Picchu is NOT to replace the existing institutions, like banks, micro-finance, micro-insurance, administrations. It is to leverage low operative costs of state-of-the-art solutions to serve the lowest segments of market where the existing financial tools failed, due to their high costs.
 
 ## Is Machu Picchu another cryptocurrency?
 No.
 
 _To be explained_
 ## How can a person-in-need, who has barely a cellular phone, use the blockchain?
-These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one hackathon. The cellular sends via SMS an information to populate the profile. The originator of this SMS will be confirmed by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
+These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one prize-winning hackathon. The cellular sends via SMS an information to populate the profile. The originator of this SMS will be confirmed by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
 
-Once the habit of doing so is acquired, this multisignature can be extended to many other community usages: participation to common chores, incentive for good practice, education, decentralised exchange of tokens etc.
+Once the habit of doing so is acquired, this multisignature can be extended to many other community usages: participation to common chores, incentive for good practice, gender equality, education, decentralised exchange of tokens etc.
 ## How would you take care of the credibility of the data posted by persons-in-need?
 _To be explained_
 ## What kind of data do you expect these people to post?
@@ -30,6 +31,10 @@ Typically they would post the GPS location of their field or their refugees camp
  
 Technically modern databases don't care about data models. The CPU have enough power to traverse all the data very quickly. Data is stored as key-value pairs. See [MongoDB](https://www.mongodb.com/what-is-mongodb) for example.
 ## What is the business model? who pays?
-Machu Picchu's purpose is to provide low cost tools for low income persons in low profile applications, but this doesn't mean a small solvable market.
+Machu Picchu's purpose is to provide low cost tools for low income persons in low profile applications, but this doesn't mean that its solvable market is small.
 
-The FAO estimated in 2013 that there are more than 500 million households. In 2019 the [Cash & Voucher Assistance programs totalled worldwide USD 5.6 billions](https://reliefweb.int/sites/reliefweb.int/files/resources/SOWC2020-Executive-Summary.pdf&usg=AOvVaw0ZepAEO1c1PBT_nhM9fmdz). This amount makes for only 17.9% of the total international humanitarian assistance. Any percentage gained in operating costs translates into hundreds of millions more, to be shared between Machu Picchu and the persons-in-need.
+The FAO estimated in 2013 that there are more than 500 million households in need. In 2019 the [Cash & Voucher Assistance programs totalled worldwide USD 5.6 billions](https://reliefweb.int/sites/reliefweb.int/files/resources/SOWC2020-Executive-Summary.pdf&usg=AOvVaw0ZepAEO1c1PBT_nhM9fmdz). This amount makes for only 17.9% of the total international humanitarian assistance. 
+
+Despite this huge amount, it means only USD 11 per householed. At such a small amount, banks lose money, donors lose money, helper organisation lose money and the persons-in-need are noty well served.
+
+Any percentage gained in operating costs translates into hundreds of millions more that can be shared between Machu Picchu and the persons-in-need.
