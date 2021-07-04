@@ -1,7 +1,7 @@
 # Machu Picchu's Frequently Asked Questions
 _version of July 4th, 2021_
 ## Is Machu Picchu about SSI, Self-Sovereign Identity?
-No. Machu Picchu is not about identity.
+--> No. Machu Picchu is not about identity.
 
 What Machu Picchu wants to do at the first place is to make a kind of _LinkedIn_ where people-in-need post their data (whatever they want) with the help of their sponsor (chief of community or helper NGO field representative). These data are available to all organizations that offer services to these persons, to optimize these services.
 It's Data as a Public Service. Identity is not of primary concern in this use case. 
@@ -11,16 +11,21 @@ The data is on IPFS, not on blockchain. They own this data and can revoke it bec
 GDPR wise, they are the Data Controller of their data.
 
 ## Is Machu Picchu about "banking the unbanked"?
-No. Machu Picchu is not a bank, nor a banking tool. It is nonetheless "inclusive finance".
+--> No. Machu Picchu is not a bank, nor a banking tool. It is nonetheless "inclusive finance".
 
 Once the objective explained above are achieved, Machu Picchu paves the way for more decentralised applications. We keep in mind that the purpose of Machu Picchu is NOT to replace the existing institutions, like banks, micro-finance, micro-insurance, administrations. It is to leverage low operative costs of state-of-the-art solutions to serve the lowest segments of market where the existing financial tools failed, due to their high costs.
 
 ## Is Machu Picchu another cryptocurrency?
-No. Machu Picchu is not another cryptocurrency.
+--> No. Machu Picchu is not another cryptocurrency.
 
 Machu Picchu is closer to the "Voucher" part of the "Cash & Voucher Assistance"
 
-_To be explained_
+Each big institution can generate its own brand of Machu Picchu blockchain token. A token of such kind is a promise of a payment that this institution will do to the holder, be it a person-in-need or a local merchant who accepted it against some good or service. The value of the token is determined by the institution in a centralised way.
+
+As the system grows and there are many tokens in circulation, each person-in-need may exchange tokens on a decentralised marketplace to make a bundle that is worth being redeemed. For example, a farmer might exchange some tokens from Red Cross, plus some from FAO against a number of UNICEF tokens that can be accepted against schoolbooks for her kid.
+
+Smaller NGOs or organizations who don't have a brand large enough can share a common Machu Picchu token for the same purpose.
+
 ## How can a person-in-need, who has barely a cellular phone, use the blockchain?
 These people will access the blockchain through their chief of village, or equivalent, who has a blockchain enabled smartphone or tablet. This is a multisignature schema that has been prototyped by Machu Picchu in one prize-winning hackathon. The cellular sends via SMS an information to populate the profile. The originator of this SMS will be confirmed by the chief of village on his or her smartphone or tablet. The transaction will be sent to IPFS for storage. Depending on the information, a trace may be stored or not on blockchain.
 
