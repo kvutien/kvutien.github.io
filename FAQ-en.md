@@ -1,6 +1,6 @@
 # Machu Picchu's Frequently Asked Questions
 ## Is Machu Picchu about SSI, Self-Sovereign Identity?
-No.
+No. Machu Picchu not about identity.
 
 What Machu Picchu wants to do at the first place is to make a kind of LinkedIn where people-in-need post their data (whatever they want) under the control of their sponsor (chief of community or helper NGO field representative). These data are available to all organizations that offer services to these persons, to optimize these services.
 It's Data as a Public Service. Identity is not of primary concern in this use case. 
@@ -8,7 +8,7 @@ It's Data as a Public Service. Identity is not of primary concern in this use ca
 The data is on IPFS, not on blockchain. They own this data and can revoke it because it's cryptographically signed by their cellular. GDPR wise, they are the Data Controller of their data.
 
 ## Is Machu Picchu about "banking the unbanked"?
-No.
+No. Machu Picchu is not a bank, or a banking tool.
 
 But once the objective explained above are achieved, Machu Picchu paves the way for more decentralised applications. We keep in mind that the purpose of Machu Picchu is NOT to replace the existing institutions, like banks, micro-finance, micro-insurance, administrations. It is to leverage low operation costs of state-of-the-art solutions to serve the lowest segments of market where the existing financial tools failed, due to their high costs.
 
