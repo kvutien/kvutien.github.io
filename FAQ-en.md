@@ -29,7 +29,7 @@ Anything they want, or actually everything their sponsors advise them to post.
 In field reality, the people-in-need have no autonomy and they don't care about GDPR and the equivalent. They trust their sponsors, be it the chief of village or the NGO field workers.
 Typically they would post the GPS location of their field or their refugees camp, what they grow, when they sow, when they harvest, the size of their family, their financial needs. There is no immutability, they can hide, change and delete. But the data is signed by them and confirmed by their sponsors that it comes from their cellular.
  
-Technically modern databases don't care about data models. The CPU have enough power to traverse all the data very quickly. Data is stored as key-value pairs. See [MongoDB](https://www.mongodb.com/what-is-mongodb) for example.
+Technically, modern databases don't care about data models. The CPU have enough power to traverse all the data very quickly. Data is stored as key-value pairs. See [MongoDB](https://www.mongodb.com/what-is-mongodb) for example.
 ## How would you take care of the credibility of the data posted by persons-in-need?
 The data are cryptographically signed by the owner. The sponsor also signs to confirm that the data comes indeed from the cellular of these persons. The sponsor doesn't even need to know the data to approve (zero-knowledge proof can be applied, although sparingly because it's expensive). In general, as for centuries in traditional villages, the data of each person is known by the whole community.
 
@@ -37,8 +37,8 @@ Later (much later), we could implement a kind of "like" by the other members of 
 ## What is the business model? who pays?
 Machu Picchu's purpose is to provide low cost tools for low income persons in low profile applications, but this doesn't mean that its solvable market is small.
 
-The FAO estimated in 2013 that there are more than 500 million households in need. In 2019 the [Cash & Voucher Assistance programs totalled worldwide USD 5.6 billions](https://reliefweb.int/sites/reliefweb.int/files/resources/SOWC2020-Executive-Summary.pdf&usg=AOvVaw0ZepAEO1c1PBT_nhM9fmdz). This amount makes for only 17.9% of the total international humanitarian assistance. 
+The FAO estimated in 2013 that there are more than 500 million households in need. In 2019 the [Cash & Voucher Assistance programs totalled worldwide USD 5.6 billions](https://reliefweb.int/sites/reliefweb.int/files/resources/SOWC2020-Executive-Summary.pdf&usg=AOvVaw0ZepAEO1c1PBT_nhM9fmdz). This amount makes for only 17.9% of the total international humanitarian assistance, that can be potentially covered also with Machu Picchu. 
 
-Despite this huge amount, it means only USD 11 per household per year. At such a small amount, banks lose money, donors lose money, helper organisations lose money and the persons-in-need are not well served.
+Despite this huge amount, it means only USD 11 per household per year currently . At such a small amount, banks lose money, donors lose money, helper organisations lose money and the persons-in-need are not well served.
 
 Any percentage gained in operating costs translates into hundreds of millions more that can be shared between Machu Picchu and the persons-in-need.
