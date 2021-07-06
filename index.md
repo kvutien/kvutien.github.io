@@ -24,7 +24,7 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 * The profile data are available to all organizations, humanitarian or commercial, who use them to optimize their assistance programmes. They will pay a micro-fee (a few tokens) to the owners to read these data.
 * These organizations can also materialize their CVA as tokens under their own brand (UNICEF, Red Cross, World Food Programs, Mercy Corps etc.)
 * The persons in need can exchange branded tokens among them to make a bundle of a single kind of token that is worth being redeemed at a bank or at some official exchange.
-* Machu Picchu addresses all the issues raised by humanitarians organisations in the [2020 report of cash & Value Assistance](https://www.calpnetwork.org/fr/publication/the-state-of-the-worlds-cash-2020-full-report/).
+* Machu Picchu aims to address all the issues raised by humanitarians organisations in the [2020 report of cash & Value Assistance](https://www.calpnetwork.org/fr/publication/the-state-of-the-worlds-cash-2020-full-report/).
 
 ## Advantages of Machu Picchu
 The advantages are:
