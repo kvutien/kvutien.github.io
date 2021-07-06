@@ -88,6 +88,7 @@ As said above, the immediate advantages of Machu Picchu for an humanitarian orga
 
 The long term advantages come when more humanitarians join Machu Picchu, leveraging the networking effect
 * Shared data with other organizations;
+* Evidence of cost-efficiency and cost-effectiveness;
 * Synergy and coordination among the different Cash & Voucher Assistance programs;
 * Consensus of market assessment among CVA actors
 * Synergy of work on the same villages or camps;
