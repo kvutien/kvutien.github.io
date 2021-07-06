@@ -24,6 +24,7 @@ All repositories have one of the 4 prefixes in the description. Your interest is
 * The profile data are available to all organizations, humanitarian or commercial, who use them to optimize their assistance programmes. They will pay a micro-fee (a token) to the owners to read these data.
 * These organizations can also materialize their CVA as tokens under their own brand (UNICEF, Red Cross, World Food Programs, Mercy Corps etc.)
 * The persons in need can exchange branded tokens among them to make a bundle of a single kind of token that is worth being redeemed at a bank or at some official exchange.
+* Machu Picchu addresses all the issues raised by humanitarians organisations in the [2020 report of cash & Value Assistance](https://www.calpnetwork.org/fr/publication/the-state-of-the-worlds-cash-2020-full-report/).
 
 ## Advantages of Machu Picchu
 The advantages are:
@@ -92,6 +93,8 @@ The long term advantages come when more humanitarians join Machu Picchu, leverag
 Thank you for having read until here. Machu Picchu is looking for 3 kinds of participants.
 ## Participate as Humanitarian
 Machu Picchu is in continuous development. At this stage, the [Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/) is available to create a disguise, store the data on IFPS/OrbitDB, store the addresses on the blockchain. The road is still long, but let's do it together. Let's find the funding and derive together the Pepito disguises to satisfy your own needs.
+
+Machu Picchu is not rushing to obtain results and funding. We know that the technology is there and the direction is good. But the tool has to match the field reality and the sooner we work with the humanitarian organizations to adjust the aim, the better.
 
 ## Contribute as developer
 Machu Picchu has won several prizes in recent hackathons. Contact us if you feel that there is a hackathon that has a theme that is close to Machu Picchu's technologies.
