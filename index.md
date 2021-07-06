@@ -80,12 +80,16 @@ Points 1 and 2 are available today, in the form of [a game of Pepito disguises](
 ### Develop humanitarian apps
 As said above, the immediate advantages of Machu Picchu for an humanitarian organization are:
 * Immediate report to donors of how the funds are spent;
+* Feedback from the recipients is built-in;
+* Ownership and protection of private data are built-in;
+* Toolbox means customization to each situration and application;
 * Low overhead of costs;
-* High quality of data.
+* High quality of data, adjusted to the specs of each CVA actor.
 
 The long term advantages come when more humanitarians join Machu Picchu, leveraging the networking effect
 * Shared data with other organizations;
-* Synergy among the Cash & Voucher Assistance programs;
+* Synergy among the different Cash & Voucher Assistance programs;
+* Consensus of market assessment among CVA actors
 * Synergy of work on the same villages or camps;
 * Attraction of commercial operators in the food and agro industry.
 
