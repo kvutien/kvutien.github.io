@@ -88,12 +88,12 @@ As said above, the immediate advantages of Machu Picchu for an humanitarian orga
 
 The long term advantages come when more humanitarians join Machu Picchu, leveraging the networking effect
 * Shared data with other organizations;
-* Synergy among the different Cash & Voucher Assistance programs;
+* Synergy and coordination among the different Cash & Voucher Assistance programs;
 * Consensus of market assessment among CVA actors
 * Synergy of work on the same villages or camps;
 * Attraction of commercial operators in the food and agro industry.
 
-# What can I do now for Machu Picchu?
+# What can YOU do now for Machu Picchu?
 Thank you for having read until here. Machu Picchu is looking for 3 kinds of participants.
 ## Participate as Humanitarian
 Machu Picchu is in continuous development. At this stage, the [Pepito disguises](https://pepito-disguises-rinkeby-v011.netlify.app/) is available to create a disguise, store the data on IFPS/OrbitDB, store the addresses on the blockchain. The road is still long, but let's do it together. Let's find the funding and derive together the Pepito disguises to satisfy your own needs.
