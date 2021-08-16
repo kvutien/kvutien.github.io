@@ -42,7 +42,7 @@ Technically, modern databases don't care about data models. The CPU have enough 
 ## How would you take care of the credibility of the data posted by persons-in-need?
 The data are cryptographically signed by the owner. The sponsor also signs to confirm that the data comes indeed from the cellular of these persons. The sponsor doesn't even need to know the data to approve (zero-knowledge proof can be applied, although sparingly because it's expensive). In general, as for centuries in traditional villages, the data of each person is known by the whole community.
 
-Later (much later), we could implement a kind of "like" by the other members of community to cross validate the data. It could be used to value the "price" in token that the data is paid by the users of the data. But it's very far fetched at this point in time.
+Later (much later), we could implement a kind of "like" by the other members of community to cross validate the data. It could be used to value the "price" in token that the data is paid by the users of the data. But it's very far fetched at this point in time. Note: something like ["Proof of Humanity"](https://blog.kleros.io/proof-of-humanity-an-explainer/) is promising but it is still too complicated to include the persons-in-need.
 ## What is the business model? who pays?
 Machu Picchu's purpose is to provide low cost tools for low income persons in low profile applications, but this doesn't mean that its solvable market is small.
 

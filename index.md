@@ -12,7 +12,7 @@ My Github account is composed of 4 types of repositories
 All repositories have one of the 4 prefixes in the description. Your interest is most certainly in the tutorial repositories.
 # About Machu Picchu
 ## The vision of Machu Picchu
-![Machu Picchu Logo](64x64_logo.png) Machu Picchu is my current project. The vision of Machu Picchu is as follows:
+![Machu Picchu Logo](64x64_logo.png) Machu Picchu is my current project. The vision of Machu Picchu is as follows [(_versión española aquí_)](./index-es.md)
 
 ### The problem:
 * All organizations that support the persons in need worldwide complain that their data concerning these persons are isolated, inconsistent, not up to date and expensive to maintain. Ideally it should be accurate and shared among all helper organizations, and GDPR-compliant. See [White Paper of Mercy Corp, Danish Red Cross and Hive Online](https://www.hivenetwork.online/blockchain-for-good/).
