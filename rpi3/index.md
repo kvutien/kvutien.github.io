@@ -19,4 +19,4 @@ This document is composed of 2 parts:
 
 Although I'm doing my best to explain each step, at some point you might need to do a Google search for more details. Your lifesaver, whenever you are puzzled by an error message in the installation, is to paste in Google the text of the error message followed by "Stackexchange". 
 
-Part 1 is still empty (as of September 2, 2021) to give priority on [Part 2](./index-2.md), because some persons have expressed their interest in reading [Part 2](./index-2.md) first.
+[Part 1](./index.md) is still lightweight (as of September 3, 2021) to give priority on [Part 2](./index-2.md), because some persons have expressed their interest in reading [Part 2](./index-2.md) first.
