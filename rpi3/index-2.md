@@ -21,7 +21,7 @@ Although I'm doing my best to explain each step, at some point you might need to
 
 ## Shipment as delivered by LABISTS(Tm)
 All starter kits are more or less the same. The one that I ordered is composed of:
-*	A Raspberry Pi3 Model B+ board ("*Model B*" means "*with wi-fi*").
+*	A Raspberry Pi3 Model B+ board ("*Model B+*" means "*with wi-fi & Bluetooth*").
 *	A 5V-2.5A power supply with micro-USB connector.
 *	A 3-part black plastic enclosure.
 *	Two heat sinks for the CPU & the DRAM.
