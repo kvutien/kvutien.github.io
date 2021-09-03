@@ -52,7 +52,7 @@ Steps 1 to 5 inclusive are derived from the following blog article: https://dese
 
 ## 1. Burn the boot micro-SD card and configure it for wi-fi access
 *	Insert the micro-SD card into the USD adapter and insert the adapter on your laptop. <br>  ![micro-SD](./IMG_7435.jpg) ![USBadapter](./IMG_7436.jpg) 
-*   Launch *Raspberry Pi Imager* on your laptop to select the OS and flash it in the micro-SD card. The video showing how to use the software is at https://www.youtube.com/watch?v=ntaXWS8Lk34. Unlike step 2.5 of the video, don't choose any option. Choose *"Raspberry Pi OS (other)"* followed by *"Raspberry Pi OS Lite (32 bit)"*. Choose the storage *"Mass Storage Device Media - 31.9 GB"* and flash the card.  On MacOS, you need to give your administrator password.
+*   Launch *Raspberry Pi Imager* on your laptop to select the OS and flash it in the micro-SD card. The video showing how to use the software is at [https://www.youtube.com/watch?v=ntaXWS8Lk34](https://www.youtube.com/watch?v=ntaXWS8Lk34). Unlike step 2.5 of the video, don't choose any option. Choose *"Raspberry Pi OS (other)"* followed by *"Raspberry Pi OS Lite (32 bit)"*. Choose the storage *"Mass Storage Device Media - 31.9 GB"* and flash the card.  On MacOS, you need to give your administrator password.
 <br> ![Choose Raspberry Pi OS](./IMG1-Choose-RPi-OS.png) 
 <br> ![Choose Raspberry Pi OS Lite 32 bits](./IMG2-Choose-RPi-OS-Lite.png) 
 <br> ![Choose Storage Media](./IMG3-Choose-Storage.png)
