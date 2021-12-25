@@ -1,0 +1,3 @@
+This is a privacy policy statement required by Google Play Store to submit an app.
+
+Since my App is a test app to learn Flutter App creation from end-to-end, does not collect any user data and is not meant for children below 13 years, this is the only privacy policy statement for this App.
